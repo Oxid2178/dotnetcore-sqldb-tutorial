@@ -1,6 +1,5 @@
 ﻿using DotNetCoreSqlDb.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
